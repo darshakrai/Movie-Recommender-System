@@ -6,8 +6,12 @@
 - **Streamlit** and **Heroku** have been used for deployment of model and to run the website
 - You can checkout the website here :
  **https://darshak-mrs.herokuapp.com/**
- 
-![home_page](https://user-images.githubusercontent.com/92095133/151704023-b609c9ce-175f-40c1-83a8-770177239540.jpeg)
 
-![results_page](https://user-images.githubusercontent.com/92095133/151704221-9ee499df-40ae-4fe0-82be-3179402d5f4e.jpeg)
+- **Note** : Install streamlit and sklearn before running app.py
+ ( pip install streamlit , pip install sklearn )
+- similarity.pkl and movie_dict.pkl files will be generated once you run the mrs.ipynb in Jupyter  
+
+![mrs1](https://user-images.githubusercontent.com/92095133/152640112-7ee7d506-6aae-474d-b8ba-22054b502ea9.jpeg)
+
+![mrs2](https://user-images.githubusercontent.com/92095133/152640162-56f1b28a-da43-47d1-83c7-148fa2bef2b7.jpeg)
   
